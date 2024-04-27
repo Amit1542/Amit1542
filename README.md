@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning full stack course
 - 📫 How to reach me amitgill1542@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: I am a fresher with confidence of a pro
+- ⚡ Fun fact: I am a fresher with confidence of a proffessional
 
 <!---
 Amit1542/Amit1542 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
