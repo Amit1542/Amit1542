@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Amit1542
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning full stack course
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me amitgill1542@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I am a fresher with confidence of a pro
